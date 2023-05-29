@@ -2,7 +2,6 @@
 - 👀 I’m interested in website and mobile development
 - 🌱 I’m currently learning mobile development
 - 💞️ I’m looking to collaborate on open source work
-- 📫 How to reach me via instagram @yogepp
 
 <!---
 yogepp/yogepp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
